@@ -1,6 +1,4 @@
-import meu_modulo
-import operacoes
-import utilidades
+from meu_pacote import  meu_modulo,operacoes, utilidades
 
 
 meu_modulo.saudar("João")  # Imprime "Olá, João!"
